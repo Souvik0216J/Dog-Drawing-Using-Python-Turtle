@@ -1,5 +1,5 @@
 import turtle as turtle
-# turtle.screensize(500, 500)
+
 turtle.pensize(5)
 turtle.home()
 turtle.seth(0)
